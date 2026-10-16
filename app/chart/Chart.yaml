@@ -1,0 +1,3 @@
+apiVersion: v2
+name: lab-app
+version: 0.1.0
